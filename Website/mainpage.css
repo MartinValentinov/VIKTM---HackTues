@@ -1,0 +1,93 @@
+.header-1 { 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    top: 2.5%;
+    left: 40%;
+}
+
+.brief_explanation {
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    top: 40%;
+    left: 5%;
+    color: rgb(232, 214, 19);
+}
+
+.upper_part {
+    background-color: rgb(19, 112, 211);
+    height: 18%;
+    width: 100%;
+    position: absolute;
+    left: 0%;
+    top: 0%
+}
+
+.proccess {
+    position: absolute;
+    top: 30%;
+    left: 2%;
+    height: 35%;
+    width: 10%;
+    background-color: aqua;
+    cursor: pointer;
+    margin: auto;
+    font-size: 180%;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: none;
+    border-radius: 10px;
+    transition: all 200ms ease-in;
+
+}
+
+.proccess:hover {
+    transition: all 200ms ease-in;
+    background-color: aquamarine;
+}
+
+.image-1 {
+    position: absolute;
+    top: 40%;
+    left: 55%;
+    height: 40%;
+    width: 40%; 
+}
+
+.download {
+    font-size: 45px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    height: 15%;
+    width: 20%;
+    top: 65%;
+    left: 15%;
+    background-color: aqua;
+    border: none;
+    border-radius: 10px;
+    transition: all 200ms ease-in;
+}
+
+.download:hover {
+    transition: all 200ms ease-in;
+    background-color: aquamarine;
+}
+
+.download_2 {
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    height: 8%;
+    width: 12%;
+    top: 4.5%;
+    left: 85%;
+    background-color: aqua;
+    border: none;
+    border-radius: 10px;
+    transition: all 200ms ease-in;
+}
+
+.download_2:hover {
+    transition: all 200ms ease-in;
+    background-color: aquamarine;
+}
