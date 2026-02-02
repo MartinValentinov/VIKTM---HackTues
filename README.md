@@ -42,4 +42,21 @@ If the number of the player's Health Points (HP) reaches 0, the player loses. Th
 Score points can be seen during the game in the upper right corner, as well as after losing the game.
 The depth in meters the player is at, is displayed during the game in the lower left corner, as well as on the screen after losing.
 
+---
+
+## Project Completion and Team Contributions
+
+This project is **fully implemented** and represents the complete game as developed during Hack-TUES.  
+
+It was developed **collaboratively as a team**:
+
+- **Ivaneta08**
+- **KristiyanKobarelov**
+- **VIKIPLAYBG**
+- **bananateo**
+- **Martin Valentinov**
+  
+[GitHub Repo](https://github.com/KristiyanKobarelov/VIKTM---Hack-TUES)
+
+> ⚠️ Note: While this repository contains the full project code, it reflects **my contributions as part of the team**. All team members contributed to planning, design, and testing.
 
